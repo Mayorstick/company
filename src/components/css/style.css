@@ -1,0 +1,68 @@
+nav {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px !important;
+}
+
+.nav-link {
+  font-weight: bold !important;
+  margin-right: 20px !important;
+  margin-left: 0 !important;
+  font-size: 1rem !important;
+  font-family: tahoma !important;
+}
+
+.linkActive {
+  border-bottom: 5px solid red !important;
+}
+.carousel-item {
+  height: 90vh !important;
+}
+.carousel-caption{
+background:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0,0,0, 0.8)) !important ;
+}
+.about-header{
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0,0,0,0.9)), url('../images/slide6.jpg') !important;
+    background-size: cover !important;
+    background-position: center;
+    height: 60vh !important;
+    background-attachment: fixed !important;
+}
+.about{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-top: 70px;
+}
+
+.about-text h1{
+  
+    font-family: tahoma !important;
+}
+.about-text h5{
+    color: grey !important;
+    font-family: tahoma !important;
+}
+
+.about-paragraph{
+    text-align: justify;
+    margin-left: 20px !important;
+}
+.team-text{
+    font-family: tahoma !important;
+}
+.footer{
+  background-color: #001C30 !important;
+  
+}
+.offices{
+  list-style: none !important;
+  font-size: 0.8rem !important;
+  line-height: 35px !important;
+}
+
+.news{
+  font-size: 0.7rem !important;
+}
+.list{
+  list-style: none !important;
+}
